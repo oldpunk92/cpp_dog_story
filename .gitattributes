@@ -1,4 +1,5 @@
-static/* linguist-vendored
+static/**/* linguist-vendored
 *.js linguist-vendored
 *.html linguist-vendored
 *.css linguist-vendored
+*.js linguist-detectable=false
